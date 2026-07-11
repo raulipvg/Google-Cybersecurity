@@ -33,18 +33,12 @@ El objetivo principal de este espacio es doble:
 
 A continuación, se detalla el índice de las lecturas y guías de estudio completadas hasta el momento en este repositorio:
 
-* [Glosario Completo de Ciberseguridad](<file:///d:/Proyectos2/Google%20Cybersecurity/Glosario_Ciberseguridad.md>) — Definiciones y conceptos fundamentales del certificado.
-* [1. Conceptos Clave de Ciberseguridad](<file:///d:/Proyectos2/Google%20Cybersecurity/1.%20Conceptos_Clave_Ciberseguridad.md>) — Introducción al panorama de la seguridad de la información.
-* [2. Dominios de la Seguridad (Marcos CISSP)](<file:///d:/Proyectos2/Google%20Cybersecurity/2.%20Dominios_CISSP.md>) — Análisis de los 8 dominios fundamentales del CISSP.
-* [3. Comprender a los Atacantes](<file:///d:/Proyectos2/Google%20Cybersecurity/3.%20Comprender_Atacantes.md>) — Tipos de amenazas, agentes maliciosos y vectores de ataque.
-*  [4. Controles, Marcos y Cumplimiento Normativo](<file:///d:/Proyectos2/Google%20Cybersecurity/4.%20Controles_Marcos_Cumplimiento.md>) — Relación entre la Tríada CID, marcos como el NIST y regulaciones (HIPAA, GDPR, PCI DSS).
-* 🔧 [5. Herramientas y Habilidades B2B](<file:///d:/Proyectos2/Google%20Cybersecurity/5.%20Herramientas_Operaciones_B2B.md>) — Uso de SIEM, IDS, encriptación, programación (Python/SQL), sistemas operativos (Linux/CLI) y protocolos de respuesta (Playbooks, Cadena de Custodia, Orden de Volatilidad).
+*   📖 [Glosario Completo de Ciberseguridad](file:///d:/Proyectos2/Google%20Cybersecurity/Glosario_Ciberseguridad.md) — Definiciones y conceptos fundamentales del certificado.
+*   📑 [1. Conceptos Clave de Ciberseguridad](file:///d:/Proyectos2/Google%20Cybersecurity/1.%20Conceptos_Clave_Ciberseguridad.md) — Introducción al panorama de la seguridad de la información.
+*   🛡️ [2. Dominios de la Seguridad (Marcos CISSP)](file:///d:/Proyectos2/Google%20Cybersecurity/2.%20Dominios_CISSP.md) — Análisis de los 8 dominios fundamentales del CISSP.
+*   🕵️ [3. Comprender a los Atacantes](file:///d:/Proyectos2/Google%20Cybersecurity/3.%20Comprender_Atacantes.md) — Tipos de amenazas, agentes maliciosos y vectores de ataque.
+*   ⚖️ [4. Controles, Marcos y Cumplimiento Normativo](file:///d:/Proyectos2/Google%20Cybersecurity/4.%20Controles_Marcos_Cumplimiento.md) — Relación entre la Tríada CID, marcos como el NIST y regulaciones (HIPAA, GDPR, PCI DSS).
+*   🔧 [5. Herramientas y Habilidades B2B](file:///d:/Proyectos2/Google%20Cybersecurity/5.%20Herramientas_Operaciones_B2B.md) — Uso de SIEM, IDS, encriptación, programación (Python/SQL), sistemas operativos (Linux/CLI) y protocolos de respuesta (Playbooks, Cadena de Custodia, Orden de Volatilidad).
+*   📝 [Esquema de Declaración Profesional](file:///d:/Proyectos2/Google%20Cybersecurity/Esquema_Declaracion_Profesional.md) — Plantilla interactiva para el desarrollo de la declaración profesional.
 
----
 
-## Próximos Pasos
-
-* [ ] Completar los módulos avanzados de Linux y Redes.
-* [ ] Desarrollar y documentar un proyecto práctico de automatización en Python (Scripts de seguridad).
-* [ ] Realizar simulaciones de análisis de logs con SIEM y adjuntar reportes al portafolio.
-* [ ] Refinar la declaración profesional con base en las retroalimentaciones obtenidas.
