@@ -31,14 +31,21 @@ El objetivo principal de este espacio es doble:
 
 ## Contenido del Portafolio
 
-A continuación, se detalla el índice de las lecturas y guías de estudio completadas hasta el momento en este repositorio:
+A continuación, se detalla el índice de las lecturas y guías de estudio completadas, organizadas por curso:
 
+### Glosario y Plantillas Generales
 *   📖 [Glosario Completo de Ciberseguridad](file:///d:/Proyectos2/Google%20Cybersecurity/Glosario_Ciberseguridad.md) — Definiciones y conceptos fundamentales del certificado.
+*   📝 [Esquema de Declaración Profesional](file:///d:/Proyectos2/Google%20Cybersecurity/Esquema_Declaracion_Profesional.md) — Plantilla interactiva para el desarrollo de la declaración profesional.
+
+### Curso 1: Fundamentos de Ciberseguridad
 *   📑 [1. Conceptos Clave de Ciberseguridad](file:///d:/Proyectos2/Google%20Cybersecurity/1.%20Conceptos_Clave_Ciberseguridad.md) — Introducción al panorama de la seguridad de la información.
 *   🛡️ [2. Dominios de la Seguridad (Marcos CISSP)](file:///d:/Proyectos2/Google%20Cybersecurity/2.%20Dominios_CISSP.md) — Análisis de los 8 dominios fundamentales del CISSP.
 *   🕵️ [3. Comprender a los Atacantes](file:///d:/Proyectos2/Google%20Cybersecurity/3.%20Comprender_Atacantes.md) — Tipos de amenazas, agentes maliciosos y vectores de ataque.
 *   ⚖️ [4. Controles, Marcos y Cumplimiento Normativo](file:///d:/Proyectos2/Google%20Cybersecurity/4.%20Controles_Marcos_Cumplimiento.md) — Relación entre la Tríada CID, marcos como el NIST y regulaciones (HIPAA, GDPR, PCI DSS).
 *   🔧 [5. Herramientas y Habilidades B2B](file:///d:/Proyectos2/Google%20Cybersecurity/5.%20Herramientas_Operaciones_B2B.md) — Uso de SIEM, IDS, encriptación, programación (Python/SQL), sistemas operativos (Linux/CLI) y protocolos de respuesta (Playbooks, Cadena de Custodia, Orden de Volatilidad).
-*   📝 [Esquema de Declaración Profesional](file:///d:/Proyectos2/Google%20Cybersecurity/Esquema_Declaracion_Profesional.md) — Plantilla interactiva para el desarrollo de la declaración profesional.
+
+### Curso 2: Gestionar los riesgos de seguridad
+*   🌐 [1. Los 8 Dominios de Seguridad de la CISSP](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%202%20-%20%20Gestionar%20los%20riesgos%20de%20seguridad/1.%20Dominios_Seguridad_CISSP.md) — Análisis detallado de los 8 dominios del CISSP aplicados a la gestión de riesgos de seguridad.
+*   ⚠️ [2. Gestionar amenazas, riesgos y vulnerabilidades comunes](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%202%20-%20%20Gestionar%20los%20riesgos%20de%20seguridad/2.%20Amenazas_Riesgos_Vulnerabilidades.md) — Concepto de recurso, estrategias de gestión de riesgos, amenazas comunes, riesgos y vulnerabilidades de seguridad.
 
 
