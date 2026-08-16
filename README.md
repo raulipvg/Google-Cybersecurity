@@ -89,6 +89,12 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 *   📂 [8. Navegar por Linux y leer el contenido de los archivos](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/8.%20Navegar%20por%20Linux%20y%20leer%20el%20contenido%20de%20los%20archivos.md)
 *   🔍 [9. Filtrado de contenidos en Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/9.%20Filtrado%20de%20contenidos%20en%20Linux.md)
 *   🛠️ [10. Gestionar directorios y archivos](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/10.%20Gestionar%20directorios%20y%20archivos.md)
+*   🔐 [11. Comandos de permisos en Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/11.%20Comandos%20de%20permisos%20en%20Linux.md)
+*   🔑 [12. Uso responsable de sudo](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/12.%20Uso%20responsable%20de%20sudo.md)
+*   📚 [13. Recursos y soporte en Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/13.%20Recursos%20y%20soporte%20en%20Linux.md)
+
+
+
 
 
 
