@@ -92,6 +92,16 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 *   🔐 [11. Comandos de permisos en Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/11.%20Comandos%20de%20permisos%20en%20Linux.md)
 *   🔑 [12. Uso responsable de sudo](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/12.%20Uso%20responsable%20de%20sudo.md)
 *   📚 [13. Recursos y soporte en Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/13.%20Recursos%20y%20soporte%20en%20Linux.md)
+*   📊 [14. Filtrado SQL frente a filtrado Linux](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/14.%20Filtrado%20SQL%20frente%20a%20filtrado%20Linux.md)
+*   🗃️ [15. Consulta de una base de datos con SQL](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/15.%20Consulta%20de%20una%20base%20de%20datos%20con%20SQL.md)
+*   🎯 [16. La cláusula WHERE y los operadores básicos en SQL](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/16.%20La%20cl%C3%A1usula%20WHERE%20y%20los%20operadores%20b%C3%A1sicos%20en%20SQL.md)
+*   🔢 [17. Operadores para filtrar fechas y números en SQL](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/17.%20Operadores%20para%20filtrar%20fechas%20y%20n%C3%BAmeros%20en%20SQL.md)
+*   🔀 [18. Filtros con AND, OR y NOT en SQL](file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/18.%20Filtros%20con%20AND,%20OR%20y%20NOT%20en%20SQL.md)
+
+
+
+
+
 
 
 
