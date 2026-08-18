@@ -102,3 +102,7 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [16. La cláusula WHERE y los operadores básicos en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/16.%20La%20cl%C3%A1usula%20WHERE%20y%20los%20operadores%20b%C3%A1sicos%20en%20SQL.md>)
 * [17. Operadores para filtrar fechas y números en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/17.%20Operadores%20para%20filtrar%20fechas%20y%20n%C3%BAmeros%20en%20SQL.md>)
 * [18. Filtros con AND, OR y NOT en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/18.%20Filtros%20con%20AND,%20OR%20y%20NOT%20en%20SQL.md>)
+* [19. Comparación de tipos de uniones (JOIN) en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/19.%20Comparaci%C3%B3n%20de%20tipos%20de%20uniones%20%28JOIN%29%20en%20SQL.md>)
+* [20. Funciones de agregación y aprendizaje continuo en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/20.%20Funciones%20de%20agregaci%C3%B3n%20y%20aprendizaje%20continuo%20en%20SQL.md>)
+
+
