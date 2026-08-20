@@ -105,4 +105,17 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [19. Comparación de tipos de uniones (JOIN) en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/19.%20Comparaci%C3%B3n%20de%20tipos%20de%20uniones%20%28JOIN%29%20en%20SQL.md>)
 * [20. Funciones de agregación y aprendizaje continuo en SQL](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%204%20-%20Herramientas%20del%20oficio%20Linux%20y%20SQL/20.%20Funciones%20de%20agregaci%C3%B3n%20y%20aprendizaje%20continuo%20en%20SQL.md>)
 
+### Curso 5: Activos, Amenazas y Vulnerabilidades
+
+* [1. Comprender los riesgos, las amenazas y las vulnerabilidades](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/1.%20Comprender%20los%20riesgos,%20las%20amenazas%20y%20las%20vulnerabilidades.md>)
+* [2. Requisitos comunes de clasificación de activos](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/2.%20Requisitos%20comunes%20de%20clasificaci%C3%B3n%20de%20activos.md>)
+* [3. La emergencia de la seguridad en la nube](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/3.%20La%20emergencia%20de%20la%20seguridad%20en%20la%20nube.md>)
+* [4. Directrices de seguridad en acción (NIST CSF)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/4.%20Directrices%20de%20seguridad%20en%20acci%C3%B3n%20%28NIST%20CSF%29.md>)
+* [5. Términos del glosario - Módulo 1](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/5.%20T%C3%A9rminos%20del%20glosario%20-%20M%C3%B3dulo%201.md>)
+
+
+
+
+
+
 
