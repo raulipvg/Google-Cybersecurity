@@ -112,6 +112,16 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [3. La emergencia de la seguridad en la nube](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/3.%20La%20emergencia%20de%20la%20seguridad%20en%20la%20nube.md>)
 * [4. Directrices de seguridad en acción (NIST CSF)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/4.%20Directrices%20de%20seguridad%20en%20acci%C3%B3n%20%28NIST%20CSF%29.md>)
 * [5. Términos del glosario - Módulo 1](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/5.%20T%C3%A9rminos%20del%20glosario%20-%20M%C3%B3dulo%201.md>)
+* [6. Principio de privilegio mínimo (PoLP)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/6.%20Principio%20de%20privilegio%20m%C3%ADnimo%20%28PoLP%29.md>)
+* [7. El ciclo de vida de los datos y gobierno de la información](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/7.%20El%20ciclo%20de%20vida%20de%20los%20datos%20y%20gobierno%20de%20la%20informaci%C3%B3n.md>)
+* [8. Privacidad de la información - Regulaciones y cumplimiento normativo](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/8.%20Privacidad%20de%20la%20informaci%C3%B3n%20-%20Regulaciones%20y%20cumplimiento%20normativo.md>)
+* [9. Actividad práctica - Planilla de fuga de datos](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/9.%20Actividad%20pr%C3%A1ctica%20-%20Planilla%20de%20fuga%20de%20datos.md>)
+* [10. Cifrado simétrico y asimétrico](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/10.%20Cifrado%20sim%C3%A9trico%20y%20asim%C3%A9trico.md>)
+
+
+
+
+
 
 
 
