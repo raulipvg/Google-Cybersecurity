@@ -117,6 +117,12 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [8. Privacidad de la información - Regulaciones y cumplimiento normativo](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/8.%20Privacidad%20de%20la%20informaci%C3%B3n%20-%20Regulaciones%20y%20cumplimiento%20normativo.md>)
 * [9. Actividad práctica - Planilla de fuga de datos](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/9.%20Actividad%20pr%C3%A1ctica%20-%20Planilla%20de%20fuga%20de%20datos.md>)
 * [10. Cifrado simétrico y asimétrico](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/10.%20Cifrado%20sim%C3%A9trico%20y%20asim%C3%A9trico.md>)
+* [11. La evolución de las funciones hash](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/11.%20La%20evoluci%C3%B3n%20de%20las%20funciones%20hash.md>)
+* [12. El auge de SSO y MFA](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/12.%20El%20auge%20de%20SSO%20y%20MFA.md>)
+* [13. Gestión de identidad y acceso (IAM)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/13.%20Gesti%C3%B3n%20de%20identidad%20y%20acceso%20%28IAM%29.md>)
+
+
+
 
 
 
