@@ -126,6 +126,10 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [17. Enfoques para la exploración de vulnerabilidades](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/17.%20Enfoques%20para%20la%20exploraci%C3%B3n%20de%20vulnerabilidades.md>)
 * [18. La importancia de las actualizaciones y gestión de parches](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/18.%20La%20importancia%20de%20las%20actualizaciones%20y%20gesti%C3%B3n%20de%20parches.md>)
 * [19. Pruebas de penetración (Penetration Testing)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/19.%20Pruebas%20de%20penetraci%C3%B3n%20%28Penetration%20Testing%29.md>)
+* [20. Enfoque de la ciberseguridad con mentalidad de atacante](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/20.%20Enfoque%20de%20la%20ciberseguridad%20con%20mentalidad%20de%20atacante.md>)
+* [21. Tipos de agentes de amenaza y vectores de ataque](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/21.%20Tipos%20de%20agentes%20de%20amenaza%20y%20vectores%20de%20ataque.md>)
+
+
 
 
 
