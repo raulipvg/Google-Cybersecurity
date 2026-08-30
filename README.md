@@ -120,6 +120,18 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [11. La evolución de las funciones hash](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/11.%20La%20evoluci%C3%B3n%20de%20las%20funciones%20hash.md>)
 * [12. El auge de SSO y MFA](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/12.%20El%20auge%20de%20SSO%20y%20MFA.md>)
 * [13. Gestión de identidad y acceso (IAM)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/13.%20Gesti%C3%B3n%20de%20identidad%20y%20acceso%20%28IAM%29.md>)
+* [14. Seguridad y vulnerabilidades en canalizaciones CI-CD](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/14.%20Seguridad%20y%20vulnerabilidades%20en%20canalizaciones%20CI-CD.md>)
+* [15. El OWASP Top 10 - Vulnerabilidades en aplicaciones web](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/15.%20El%20OWASP%20Top%2010%20-%20Vulnerabilidades%20en%20aplicaciones%20web.md>)
+* [16. Inteligencia de fuentes abiertas (OSINT)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/16.%20Inteligencia%20de%20fuentes%20abiertas%20%28OSINT%29.md>)
+* [17. Enfoques para la exploración de vulnerabilidades](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/17.%20Enfoques%20para%20la%20exploraci%C3%B3n%20de%20vulnerabilidades.md>)
+* [18. La importancia de las actualizaciones y gestión de parches](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/18.%20La%20importancia%20de%20las%20actualizaciones%20y%20gesti%C3%B3n%20de%20parches.md>)
+* [19. Pruebas de penetración (Penetration Testing)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/19.%20Pruebas%20de%20penetraci%C3%B3n%20%28Penetration%20Testing%29.md>)
+
+
+
+
+
+
 
 
 
