@@ -128,6 +128,7 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [19. Pruebas de penetración (Penetration Testing)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/19.%20Pruebas%20de%20penetraci%C3%B3n%20%28Penetration%20Testing%29.md>)
 * [20. Enfoque de la ciberseguridad con mentalidad de atacante](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/20.%20Enfoque%20de%20la%20ciberseguridad%20con%20mentalidad%20de%20atacante.md>)
 * [21. Tipos de agentes de amenaza y vectores de ataque](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/21.%20Tipos%20de%20agentes%20de%20amenaza%20y%20vectores%20de%20ataque.md>)
+* [22. Fortalézcase contra los ciberataques de fuerza bruta](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/22.%20Fortal%C3%A9zcase%20contra%20los%20ciberataques%20de%20fuerza%20bruta.md>)
 
 
 

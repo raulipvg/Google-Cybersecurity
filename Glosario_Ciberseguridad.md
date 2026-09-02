@@ -73,6 +73,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 
 ## C
 
+* **CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart):** Un sistema de autenticación desafío-respuesta que requiere que los usuarios completen una prueba sencilla para demostrar que son humanos y no un software automatizado.
 * **Career Dreamer:** Una herramienta experimental que utiliza IA para hacer que la exploración de carreras sea más fácil y personalizada.
 * **Declaración de identidad profesional (Career identity statement):** Unas pocas oraciones sobre ti mismo que proporcionan una visión rápida pero perspicaz de tus habilidades clave, intereses, metas profesionales y aquello que te apasiona.
 * **Entrevista de caso (Case interview):** Un tipo de entrevista diseñada para evaluar tus habilidades de resolución de problemas, análisis y comunicación al presentarte desafíos comerciales del mundo real para analizar y resolver.
@@ -105,6 +106,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 * **Contención (Containment):** El acto de limitar y prevenir daños adicionales causados por un incidente.
 * **Zona controlada (Controlled zone):** Una subred que protege la red interna de la zona no controlada.
 * **Carta de presentación (Cover letter):** Un documento personalizado que muestra tus habilidades de comunicación y personalidad mientras demuestra cómo tus habilidades y experiencia se relacionan con las necesidades del empleador.
+* **Relleno de credenciales (Credential stuffing):** Una táctica de ciberataque en la que los actores de amenaza utilizan credenciales de inicio de sesión robadas de brechas de datos previas para acceder a cuentas de usuario en otros sistemas.
 * **Cross-site scripting (XSS):** Un ataque de inyección que inserta código en un sitio web o aplicación web vulnerable.
 * **Crowdsourcing:** La práctica de recopilar información utilizando la participación del público y la colaboración.
 * **Ataque criptográfico (Cryptographic attack):** Un ataque que afecta las formas seguras de comunicación entre un remitente y el destinatario previsto.
@@ -140,6 +142,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 * **Detectar (Detect):** Una función central del NIST relacionada con la identificación de posibles incidentes de seguridad y la mejora de las capacidades de monitoreo para aumentar la velocidad y la eficiencia de las detecciones.
 * **Detección (Detection):** El descubrimiento oportuno de eventos de seguridad.
 * **Datos de diccionario (Dictionary data):** Datos que constan de uno o más pares clave-valor.
+* **Ataque de diccionario (Dictionary attack):** Una técnica de fuerza bruta que utiliza una lista predefinida de palabras o credenciales de uso común para acceder a un sistema.
 * **Certificado digital (Digital certificate):** Un archivo que verifica la identidad del titular de una clave pública.
 * **Análisis forense digital (Digital forensics):** La práctica de recopilar y analizar datos para determinar qué ha sucedido después de un ataque.
 * **Directorio (Directory):** Un archivo que organiza dónde se almacenan otros archivos.
@@ -164,6 +167,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 * **Política de escalada (Escalation policy):** Un conjunto de acciones que detallan quién debe ser notificado cuando ocurre una alerta de incidente y cómo debe manejarse ese incidente.
 * **Evento (Event):** Una ocurrencia observable en una red, sistema o dispositivo.
 * **Excepción (Exception):** Un error que involucra código que no se puede ejecutar a pesar de ser sintácticamente correcto.
+* **Búsqueda exhaustiva de claves (Exhaustive key search):** Una técnica de fuerza bruta que comprueba sistemáticamente todas las claves posibles dentro de un espacio de claves criptográficas para descifrar datos cifrados.
 * **Operador exclusivo (Exclusive operator):** Un operador que no incluye el valor de comparación.
 * **Exploit (explotar/aprovechar):** Una forma de aprovechar una vulnerabilidad.
 * **Exposición (Exposure):** Un error que puede ser explotado por una amenaza.
@@ -368,6 +372,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 * **Análisis sintáctico (Parsing):** El proceso de convertir datos a un formato más accesible y legible.
 * **Rastreo pasivo de paquetes o packet sniffing pasivo (Passive packet sniffing):** Un tipo de ataque en el que un actor malicioso se conecta a un concentrador de red y observa todo el tráfico de la red.
 * **Ataque de contraseña (Password attack):** Un intento de acceder a dispositivos, sistemas, redes o datos protegidos por contraseña.
+* **Pasar el hash (Pass the hash - PtH):** Un ataque especializado que reutiliza credenciales hash robadas para engañar a un sistema de autenticación y crear una nueva sesión de usuario sin descifrar el hash.
 * **Actualización de parche (Patch update):** Una actualización de software y sistema operativo que aborda las vulnerabilidades de seguridad dentro de un programa o producto.
 * **Estándares de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS - Payment Card Industry Data Security Standards):** Un conjunto de estándares de seguridad formados por las principales organizaciones de la industria financiera.
 * **Prueba de penetración o Pen test (Penetration test):** Un ataque simulado que ayuda a identificar vulnerabilidades en sistemas, redes, sitios web, aplicaciones y procesos.
@@ -425,6 +430,7 @@ Este glosario contiene términos y definiciones clave traducidos al español par
 * **Recuperación (Recovery):** El proceso de devolver los sistemas afectados a sus operaciones normales.
 * **Red Hat® Enterprise Linux®:** Una distribución de Linux basada en suscripción creada para uso empresarial.
 * **Ataque XSS reflejado (Reflected XSS attack):** Un caso en el que se envía una secuencia de comandos maliciosa a un servidor y se activa durante la respuesta del servidor.
+* **Ataque de fuerza bruta inversa (Reverse brute force attack):** Un ataque de fuerza bruta que comienza con una única credencial o contraseña común y la prueba contra múltiples cuentas o sistemas hasta encontrar una coincidencia.
 * **Expresión regular (regex - Regular expression):** Una secuencia de caracteres que forma un patrón de búsqueda.
 * **Regulaciones (Regulations):** Reglas establecidas por un gobierno u otra autoridad para controlar la forma en que se hace algo.
 * **Base de datos relacional (Relational database):** Una base de datos estructurada que contiene tablas que están relacionadas entre sí.
