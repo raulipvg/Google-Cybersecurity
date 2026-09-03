@@ -128,7 +128,15 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [19. Pruebas de penetración (Penetration Testing)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/19.%20Pruebas%20de%20penetraci%C3%B3n%20%28Penetration%20Testing%29.md>)
 * [20. Enfoque de la ciberseguridad con mentalidad de atacante](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/20.%20Enfoque%20de%20la%20ciberseguridad%20con%20mentalidad%20de%20atacante.md>)
 * [21. Tipos de agentes de amenaza y vectores de ataque](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/21.%20Tipos%20de%20agentes%20de%20amenaza%20y%20vectores%20de%20ataque.md>)
-* [22. Fortalézcase contra los ciberataques de fuerza bruta](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/22.%20Fortal%C3%A9zcase%20contra%20los%20ciberataques%20de%20fuerza%20bruta.md>)
+* [22. Tácticas de ingeniería social y psicología del engaño](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/22.%20T%C3%A1cticas%20de%20ingenier%C3%ADa%20social%20y%20psicolog%C3%ADa%20del%20enga%C3%B1o.md>)
+* [23. Fortalézcase contra los ciberataques de fuerza bruta](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/23.%20Fortal%C3%A9zcase%20contra%20los%20ciberataques%20de%20fuerza%20bruta.md>)
+* [24. Tipos de phishing y tácticas avanzadas de suplantación](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/24.%20Tipos%20de%20phishing%20y%20t%C3%A1cticas%20avanzadas%20de%20suplantaci%C3%B3n.md>)
+* [25. Introducción al malware y taxonomía de amenazas](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/25.%20Introducci%C3%B3n%20al%20malware%20y%20taxonom%C3%ADa%20de%20amenazas.md>)
+* [26. Prevención de ataques de inyección SQL (SQLi)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/26.%20Prevenci%C3%B3n%20de%20ataques%20de%20inyecci%C3%B3n%20SQL%20%28SQLi%29.md>)
+
+
+
+
 
 
 
