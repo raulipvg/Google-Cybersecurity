@@ -133,6 +133,7 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [24. Tipos de phishing y tácticas avanzadas de suplantación](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/24.%20Tipos%20de%20phishing%20y%20t%C3%A1cticas%20avanzadas%20de%20suplantaci%C3%B3n.md>)
 * [25. Introducción al malware y taxonomía de amenazas](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/25.%20Introducci%C3%B3n%20al%20malware%20y%20taxonom%C3%ADa%20de%20amenazas.md>)
 * [26. Prevención de ataques de inyección SQL (SQLi)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/26.%20Prevenci%C3%B3n%20de%20ataques%20de%20inyecci%C3%B3n%20SQL%20%28SQLi%29.md>)
+* [27. Características de un modelo de amenaza eficaz](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/27.%20Caracter%C3%ADsticas%20de%20un%20modelo%20de%20amenaza%20eficaz.md>)
 
 
 
