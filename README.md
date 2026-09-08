@@ -36,15 +36,15 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 ### Glosario y Plantillas Generales
 
 * [Glosario Completo de Ciberseguridad](<file:///d:/Proyectos2/Google%20Cybersecurity/Glosario_Ciberseguridad.md>) — Definiciones y conceptos fundamentales del certificado.
-*  [Esquema de Declaración Profesional](<file:///d:/Proyectos2/Google%20Cybersecurity/Esquema_Declaracion_Profesional.md>) — Plantilla interactiva para el desarrollo de la declaración profesional.
+* [Esquema de Declaración Profesional](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/Esquema_Declaracion_Profesional.md>) — Plantilla interactiva para el desarrollo de la declaración profesional.
 
 ### Curso 1: Fundamentos de Ciberseguridad
 
-* [1. Conceptos Clave de Ciberseguridad](<file:///d:/Proyectos2/Google%20Cybersecurity/1.%20Conceptos_Clave_Ciberseguridad.md>) — Introducción al panorama de la seguridad de la información.
-* [2. Dominios de la Seguridad (Marcos CISSP)](<file:///d:/Proyectos2/Google%20Cybersecurity/2.%20Dominios_CISSP.md>) — Análisis de los 8 dominios fundamentales del CISSP.
-* [3. Comprender a los Atacantes](<file:///d:/Proyectos2/Google%20Cybersecurity/3.%20Comprender_Atacantes.md>) — Tipos de amenazas, agentes maliciosos y vectores de ataque.
-* [4. Controles, Marcos y Cumplimiento Normativo](<file:///d:/Proyectos2/Google%20Cybersecurity/4.%20Controles_Marcos_Cumplimiento.md>) — Relación entre la Tríada CID, marcos como el NIST y regulaciones (HIPAA, GDPR, PCI DSS).
-* [5. Herramientas y Habilidades B2B](<file:///d:/Proyectos2/Google%20Cybersecurity/5.%20Herramientas_Operaciones_B2B.md>) — Uso de SIEM, IDS, encriptación, programación (Python/SQL), sistemas operativos (Linux/CLI) y protocolos de respuesta (Playbooks, Cadena de Custodia, Orden de Volatilidad).
+* [1. Conceptos Clave de Ciberseguridad](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/1.%20Conceptos_Clave_Ciberseguridad.md>) — Introducción al panorama de la seguridad de la información.
+* [2. Dominios de la Seguridad (Marcos CISSP)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/2.%20Dominios_CISSP.md>) — Análisis de los 8 dominios fundamentales del CISSP.
+* [3. Comprender a los Atacantes](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/3.%20Comprender_Atacantes.md>) — Tipos de amenazas, agentes maliciosos y vectores de ataque.
+* [4. Controles, Marcos y Cumplimiento Normativo](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/4.%20Controles_Marcos_Cumplimiento.md>) — Relación entre la Tríada CID, marcos como el NIST y regulaciones (HIPAA, GDPR, PCI DSS).
+* [5. Herramientas y Habilidades B2B](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%201%20-%20%20Fundamentos%20de%20Ciberseguridad/5.%20Herramientas_Operaciones_B2B.md>) — Uso de SIEM, IDS, encriptación, programación (Python/SQL), sistemas operativos (Linux/CLI) y protocolos de respuesta (Playbooks, Cadena de Custodia, Orden de Volatilidad).
 
 ### Curso 2: Gestionar los riesgos de seguridad
 
@@ -135,29 +135,9 @@ A continuación, se detalla el índice de las lecturas y guías de estudio compl
 * [26. Prevención de ataques de inyección SQL (SQLi)](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/26.%20Prevenci%C3%B3n%20de%20ataques%20de%20inyecci%C3%B3n%20SQL%20%28SQLi%29.md>)
 * [27. Características de un modelo de amenaza eficaz](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%205%20-%20Activos%20Amenazas%20y%20Vulnerabilidades/27.%20Caracter%C3%ADsticas%20de%20un%20modelo%20de%20amenaza%20eficaz.md>)
 
+### Curso 6: Haga sonar la alarma - Detección y respuesta
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [1. Plantilla - Diario del gestor de incidentes](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%206%20-%20Haga%20sonar%20la%20alarma%20-%20Deteccion%20y%20respuesta/1.%20Plantilla%20-%20Diario%20del%20gestor%20de%20incidentes.md>) — Plantilla estructurada para el registro de actividades, herramientas y análisis de incidentes (las 5 preguntas clave).
+* [2. Funciones en la respuesta](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%206%20-%20Haga%20sonar%20la%20alarma%20-%20Deteccion%20y%20respuesta/2.%20Funciones%20en%20la%20respuesta.md>) — Roles, responsabilidades y estructura organizativa en el CSIRT y los niveles jerárquicos de analistas del SOC (L1 a L3).
+* [3. Visión general de las herramientas de detección](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%206%20-%20Haga%20sonar%20la%20alarma%20-%20Deteccion%20y%20respuesta/3.%20Visi%C3%B3n%20general%20de%20las%20herramientas%20de%20detecci%C3%B3n.md>) — Comparativa técnica entre IDS, IPS y EDR, y matriz de clasificación de alertas (verdaderos/falsos positivos y negativos).
+* [4. Visión general de la tecnología SIEM](<file:///d:/Proyectos2/Google%20Cybersecurity/Curso%206%20-%20Haga%20sonar%20la%20alarma%20-%20Deteccion%20y%20respuesta/4.%20Visi%C3%B3n%20general%20de%20la%20tecnolog%C3%ADa%20SIEM.md>) — Fundamentos de los sistemas SIEM, el proceso de recopilación/parsing, normalización y correlación de eventos, y herramientas destacadas.
